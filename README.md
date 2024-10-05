@@ -48,4 +48,5 @@ HTML & CSS and animations using Framer Motion
 14.Categories & Date Pickers
 15.Animations using Framer Motion in React
 16.Written comments for explantion of logic
+17.Emulated the company colour scheme from the company website
 17.Added more complex validations for the purpose of data integrity and consistency
