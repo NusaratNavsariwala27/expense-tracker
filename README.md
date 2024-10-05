@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+Project Title: Expense Tracker
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Libraries used
 
-## Available Scripts
+react
+chart.js
+framer-motion
+react-chartjs-2
 
-In the project directory, you can run:
+# Steps to run the project
 
-### `npm start`
+1.Project is uploaded on GitHub Repository
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+2.To clone the project
+git clone https://github.com/NusaratNavsariwala27/expense-tracker.git
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+3.After that install depedencies
+npm install
 
-### `npm test`
+4.Run the project using below command
+npm start
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+5.On browser run http://localhost:3000/ to view the project
 
-### `npm run build`
+# Data Handling
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Local Storage
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Design
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+HTML & CSS and animations using Framer Motion
 
-### `npm run eject`
+# Features included
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+1.Add a new expense entry.
+2.View a list of all expense entries
+3.Edit details of an existing expense
+4.Delete an expense from the list
+5.Designed a clean & responsive UI using HTML & CSS
+6.Displayed table of all expenses with options for delete and edit
+7.Summary of expenses
+8.State handling using useState,useContext & more
+9.Used LocalStorage for save & retrieve expenses
+10.Implemented client side routing to navigate between different views or pages
+11.Implemented Error Handling for user inputs and displayed meaningful messages
+12.Responsive Design
+13.Implemented Data Visulization using chart.js and created chart to display expensed over category
+14.Categories & Date Pickers
+15.Animations using Framer Motion in React
+16.Written comments for explantion of logic
+17.Added more complex validations for the purpose of data integrity and consistency
