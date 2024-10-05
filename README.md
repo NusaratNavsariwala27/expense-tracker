@@ -14,7 +14,7 @@ react-chartjs-2
 2.To clone the project
 git clone https://github.com/NusaratNavsariwala27/expense-tracker.git
 
-3.After that install depedencies
+3.After that install depedencies (node_modules)
 npm install
 
 4.Run the project using below command
